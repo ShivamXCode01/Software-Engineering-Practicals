@@ -1,6 +1,9 @@
-﻿#Software-Engineering-Practicals
--Name : Shivam Kumar Soni 
--Enrollment No. : 92460118821
--Department : B.TECH CSE AI-ML
+﻿# Software Engineering Practicals
 
--This is My First Git Repository 
+## Student Information
+
+- **Name:** Shivam Kumar Soni
+- **Enrollment No.:** 92460118821
+- **Department:** B.Tech CSE (AI & ML)
+
+This is my first Git repository.
